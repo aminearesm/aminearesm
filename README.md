@@ -127,28 +127,6 @@ users, content, interactions, and data persistence.
 
 Focused on learning by building rather than collecting certificates.
 
----
-
-## ⟡ Universe Under Construction
-
-```text
-FRANCHISE : LINES OF TIME
-
-Phase I
-├── Essence of Creation
-├── Essence of Creation II
-└── Order of Death
-
-Core Concepts
-├── Incursion
-├── Divine Creation
-├── Divine Destruction
-├── Divine Death
-├── Angels
-├── Seers
-├── Celestials
-└── Timeline Manipulation
-```
 
 ---
 
