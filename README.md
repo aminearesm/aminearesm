@@ -15,7 +15,7 @@
 │                                                                     │
 └─────────────────────────────────────────────────────────────────────┘
 ```
-
+![Snake](https://raw.githubusercontent.com/aminearesm/aminearesm/output/github-contribution-grid-snake-dark.svg)
 
 # ⌬ Operator Profile
 
@@ -128,7 +128,7 @@ users, content, interactions, and data persistence.
 
 Focused on learning by building rather than collecting certificates.
 
-![Snake](https://raw.githubusercontent.com/aminearesm/aminearesm/output/github-contribution-grid-snake-dark.svg)
+
 ---
 
 ```bash
