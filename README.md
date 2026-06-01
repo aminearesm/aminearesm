@@ -16,6 +16,7 @@
 └─────────────────────────────────────────────────────────────────────┘
 ```
 
+
 # ⌬ Operator Profile
 
 ```yaml
@@ -127,7 +128,9 @@ users, content, interactions, and data persistence.
 
 Focused on learning by building rather than collecting certificates.
 
-
+<p align="center">
+  <img src="https://github.com/AmineAresmouk/AmineAresmouk/blob/output/github-contribution-grid-snake-dark.svg">
+</p>
 ---
 
 ```bash
