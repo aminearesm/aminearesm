@@ -1,16 +1,162 @@
-## Hi there 👋
+```text
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                     │
+│   █████╗ ███╗   ███╗██╗███╗   ██╗███████╗                           │
+│  ██╔══██╗████╗ ████║██║████╗  ██║██╔════╝                           │
+│  ███████║██╔████╔██║██║██╔██╗ ██║█████╗                             │
+│  ██╔══██║██║╚██╔╝██║██║██║╚██╗██║██╔══╝                             │
+│  ██║  ██║██║ ╚═╝ ██║██║██║ ╚████║███████╗                           │
+│  ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚══════╝                           │
+│                                                                     │
+│               SYSTEM STATUS : ONLINE ◉                              │
+│               LOCATION      : ?                                     │
+│               ROLE          : CS STUDENT                            │
+│               FOCUS         : NETWORKS • SECURITY • SOFTWARE        │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
+```
 
-<!--
-**aminearesm/aminearesm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ⌬ Operator Profile
 
-Here are some ideas to get you started:
+```yaml
+name: Amine
+class: Computer Science Student
+specializations:
+  - Networking
+  - Cybersecurity
+  - Python
+  - Java
+  - SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+current_mission:
+  - Learning advanced networking concepts
+  - Developing software engineering skills
+
+long_term_targets:
+  - Cybersecurity
+  - Systems Engineering
+  - Infrastructure
+  - Worldbuilding & Creative Technology
+```
+
+## ◈ Knowledge Tree
+
+| Domain | Status |
+|----------|----------|
+| 🜁 Computer Networks | ████████░░ |
+| 🜂 Cybersecurity | ██████░░░░ |
+| 🜃 Python | ███████░░░ |
+| 🜄 Java | ███████░░░ |
+| ⌬ SQL / Databases | ██████░░░░ |
+| ⚙ Linux | ██████░░░░ |
+| 🜁 Django | ███████░░░ |
+
+---
+
+## ⟐ Current Stack
+
+```text
+╭──────────────────────────────────────╮
+│ Languages                            │
+├──────────────────────────────────────┤
+│ Python                               │
+│ Java                                 │
+│ SQL                                  │
+│ HTML / CSS                           │
+╰──────────────────────────────────────╯
+
+╭──────────────────────────────────────╮
+│ Infrastructure                       │
+├──────────────────────────────────────┤
+│ TCP/IP                               │
+│ Subnetting                           │
+│ Routing                              │
+│ Network Design                       │
+│ Linux                                │
+╰──────────────────────────────────────╯
+```
+
+---
+
+## ⟁ Featured Projects
+
+---
+
+## ◈ FLAGSHIP PROJECT
+
+### DEEPFEED
+
+```text
+TYPE      : Social Media Platform
+STACK     : Django + SQL
+STATUS    : Active Development
+```
+
+Features:
+
+◉ User Authentication
+
+◉ Personalized Feed System
+
+◉ User Profiles
+
+◉ Post Creation
+
+◉ Comment System
+
+◉ Database Integration
+
+◉ Content Management
+
+◉ Responsive Web Interface
+
+Built to explore how modern social media systems manage
+users, content, interactions, and data persistence.
+
+---
+
+### ⌘ Academic Projects
+
+```bash
+> python_projects/
+> java_projects/
+> sql_projects/
+> networking_labs/
+> cybersecurity_notes/
+```
+
+Focused on learning by building rather than collecting certificates.
+
+---
+
+## ⟡ Universe Under Construction
+
+```text
+FRANCHISE : LINES OF TIME
+
+Phase I
+├── Essence of Creation
+├── Essence of Creation II
+└── Order of Death
+
+Core Concepts
+├── Incursion
+├── Divine Creation
+├── Divine Destruction
+├── Divine Death
+├── Angels
+├── Seers
+├── Celestials
+└── Timeline Manipulation
+```
+
+---
+
+```bash
+$ whoami
+
+Amine
+
+$ interests
+
+> "Build systems that work. Build worlds that live."
