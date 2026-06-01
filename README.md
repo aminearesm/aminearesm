@@ -19,6 +19,10 @@
 
 # ⌬ Operator Profile
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,django,java,mysql,linux,git,vscode" />
+</p>
+
 ```yaml
 name: Amine
 class: Computer Science Student
